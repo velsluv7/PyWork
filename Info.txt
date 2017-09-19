@@ -1,0 +1,1 @@
+Logs = "D:\Project1\Dev\Logs"
